@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![counter](https://ennf979e38ywgbn.m.pipedream.net)
+<!--![counter](https://ennf979e38ywgbn.m.pipedream.net)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mittal19)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 <!--
 **mittal19/mittal19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
